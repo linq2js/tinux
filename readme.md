@@ -1,4 +1,4 @@
-# moduz
+# tinux
 
 150 lines state management for React
 

@@ -1,6 +1,6 @@
 {
   "name": "tinux",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "150 lines state management for React",
   "main": "src/tinux.js",
   "scripts": {
